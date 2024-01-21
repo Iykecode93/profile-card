@@ -1,0 +1,50 @@
+.card {
+    width: 350px;
+    margin: 20px;
+    border-radius: 4px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.gradiant {
+    background-image: linear-gradient(#91baff, #205fff);
+    height: 125px;
+    border-radius: 4[x, 4px, 0px, 0px];
+}
+
+.card-down img{
+    height: 150px;
+    border-radius: 100px;
+    margin-top: -75px;
+    padding: 5px;
+    background: white;
+    margin-left: 110px;
+}
+
+.profile-title {
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.profile-description {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.profile-button {
+    font-size: 10px;
+    background: #2b5dff;
+    margin-left: 135px;
+    border-radius: 40px;
+    text-align: center;
+    width: 70px;
+    height: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
