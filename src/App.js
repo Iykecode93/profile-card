@@ -1,11 +1,9 @@
-
-import UserProfileCard from './components/UserProfileCard/UserProfileCard';
-
+import UserProfileCard from "./components/UserProfileCard/UserProfileCard";
 
 function App() {
   return (
     <div>
-      <UserProfileCard/>
+      <UserProfileCard />
     </div>
   );
 }
